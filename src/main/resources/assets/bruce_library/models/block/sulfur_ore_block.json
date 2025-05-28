@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bruce_library:block/sulfur_ore_block"
+  }
+}

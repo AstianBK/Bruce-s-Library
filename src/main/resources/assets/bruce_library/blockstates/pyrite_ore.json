@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":"bruce_library:block/pyrite_ore"
+    }
+  }
+}

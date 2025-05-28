@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "bruce_library:item/rock_small_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "bruce_library:item/rock_small_gui"
+    },
+    "ground": {
+      "parent": "bruce_library:item/rock_small_gui"
+    },
+    "fixed": {
+      "parent": "bruce_library:item/rock_small_gui"
+    }
+  }
+}
