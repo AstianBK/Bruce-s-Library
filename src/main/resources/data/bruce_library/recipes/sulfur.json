@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bruce_library:sulfur"
+    }
+  },
+  "result": {
+    "item": "bruce_library:sulfur_ore_block",
+    "count": 1
+  }
+}

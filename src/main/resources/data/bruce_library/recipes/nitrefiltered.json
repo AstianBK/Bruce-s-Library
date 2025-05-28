@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "DDD",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand"
+        },
+        "D": {
+            "tag": "bruce_library:decay"
+        },
+        "C": {
+            "item": "minecraft:composter"
+        }
+    },
+    "result": {
+        "item": "bruce_library:nitre",
+        "count": 3
+    }
+}

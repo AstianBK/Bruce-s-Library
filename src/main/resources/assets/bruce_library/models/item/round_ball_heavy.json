@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "bruce_library:item/round_ball_ammo_heavy"
-  }
-}

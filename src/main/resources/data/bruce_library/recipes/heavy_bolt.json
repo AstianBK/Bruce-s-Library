@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #",
+        "A "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:raw_iron"
+        },
+        "A": {
+            "item": "minecraft:arrow"
+        }
+    },
+  "result": {
+    "item": "medieval_boomsticks:heavy_bolt",
+    "count": 1
+  }
+}

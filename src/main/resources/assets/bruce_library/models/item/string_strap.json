@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/string_strap"
+    "layer0": "bruce_library:item/string_strap"
   }
 }

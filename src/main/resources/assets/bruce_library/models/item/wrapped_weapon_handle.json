@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/wrapped_weapon_handle"
+    "layer0": "bruce_library:item/wrapped_weapon_handle"
   }
 }

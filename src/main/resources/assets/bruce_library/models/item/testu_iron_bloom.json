@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/testu_iron_bloom"
+    "layer0": "bruce_library:item/testu_iron_bloom"
   }
 }

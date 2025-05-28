@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/japsmithinghammer_item"
+    "layer0": "bruce_library:item/japsmithinghammer_item"
   }
 }

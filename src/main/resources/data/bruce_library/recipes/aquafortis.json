@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bruce_library:nitre"
+        },
+        {
+            "item": "bruce_library:sulfur"
+        },
+        {
+            "item": "bruce_library:nitre"
+        },
+        {
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
+
+        },
+        {
+            "item": "bruce_library:nitre"
+        },
+        {
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
+
+        },
+        {
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
+
+        },
+        {
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
+
+        },
+        {
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
+        }
+    ],
+    "result": {
+        "item": "bruce_library:aqua_fortis",
+        "count": 5
+    }
+}

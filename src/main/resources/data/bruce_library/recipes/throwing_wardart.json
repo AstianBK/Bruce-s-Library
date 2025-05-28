@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "S/ ",
+        "FS "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:raw_iron"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "medieval_boomsticks:throwing_wardart",
+        "count": 1
+    }
+}

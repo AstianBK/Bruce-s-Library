@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/kobuto_helmet_shell"
+    "layer0": "bruce_library:item/kobuto_helmet_shell"
   }
 }

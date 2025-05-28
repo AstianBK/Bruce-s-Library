@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/iron_sand"
+    "layer0": "bruce_library:item/iron_sand"
   }
 }

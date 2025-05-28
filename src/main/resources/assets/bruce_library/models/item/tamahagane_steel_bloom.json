@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/tamahagane_steel_bloom"
+    "layer0": "bruce_library:item/tamahagane_steel_bloom"
   }
 }

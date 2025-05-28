@@ -1,0 +1,27 @@
+{
+  "type": "bruce_library:new_furnace_recipe",
+  "ingredient1": {
+    "item": "minecraft:iron_ingot"
+  },
+  "ingredient2": {
+    "item": "minecraft:iron_ingot"
+  },
+  "ingredient3": {
+    "item": "minecraft:clay_ball"
+  },
+  "tool1": {
+    "item": "bruce_library:smithing_hammer"
+  },
+  "tool2": {
+    "item": "bruce_library:smithing_tongs"
+  },
+  "tool3": {
+    "item": "bruce_library:smithing_bellows"
+  },
+  "experience": 1,
+  "cooking_time":400,
+
+  "result": {
+    "item": "bruce_library:small_iron_barrel"
+  }
+}

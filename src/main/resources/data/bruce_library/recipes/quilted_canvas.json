@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bruce_library:padded_canvas"
+        }
+    },
+    "result": {
+        "id": "bruce_library:quilted_canvas",
+        "count": 1
+    }
+}

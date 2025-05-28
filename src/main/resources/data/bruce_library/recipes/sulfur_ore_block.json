@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bruce_library:sulfur_ore_block"
+        }
+    ],
+    "result": {
+        "item": "bruce_library:sulfur",
+        "count": 9
+    }
+}

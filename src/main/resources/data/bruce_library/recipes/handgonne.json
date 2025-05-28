@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #I",
+        " / ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "bruce_library:canvas"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "/": {
+            "item": "bruce_library:finished_shaft"
+        }
+    },
+    "result": {
+        "id": "bruce_library:handgonne",
+        "count": 1
+    }
+}

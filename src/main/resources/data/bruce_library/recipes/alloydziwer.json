@@ -1,0 +1,27 @@
+{
+  "type": "bruce_library:new_furnace_recipe",
+  "ingredient1": {
+    "item": "magistuarmory:steel_ingot"
+  },
+  "ingredient2": {
+    "item": "bruce_library:aqua_fortis"
+  },
+  "ingredient3": {
+    "item": "minecraft:iron_ingot"
+  },
+  "tool1": {
+    "tag": "bruce_library:blacksmith_hammer"
+  },
+  "tool2": {
+    "tag": "bruce_library:blacksmith_tongs"
+  },
+  "tool3": {
+    "tag": "bruce_library:blacksmith_bellows"
+  },
+  "experience": 2,
+  "cooking_time":400,
+
+  "result": {
+    "item": "bruce_library:dziwer_bar"
+  }
+}

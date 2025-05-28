@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/laminar_plate"
+    "layer0": "bruce_library:item/laminar_plate"
   }
 }

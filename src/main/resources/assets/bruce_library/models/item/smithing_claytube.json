@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "samurai_armory:item/smithing_claytube"
+    "layer0": "bruce_library:item/smithing_claytube"
   }
 }

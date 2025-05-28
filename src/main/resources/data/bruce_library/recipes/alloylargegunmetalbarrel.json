@@ -1,0 +1,27 @@
+{
+  "type": "bruce_library:new_furnace_recipe",
+  "ingredient1": {
+    "item": "bruce_library:bulat_bar"
+  },
+  "ingredient2": {
+    "item": "bruce_library:large_iron_barrel"
+  },
+  "ingredient3": {
+    "item": "bruce_library:dziwer_bar"
+  },
+  "tool1": {
+    "item": "bruce_library:smithing_hammer"
+  },
+  "tool2": {
+    "item": "bruce_library:smithing_tongs"
+  },
+  "tool3": {
+    "item": "bruce_library:smithing_bellows"
+  },
+  "experience": 7,
+  "cooking_time":400,
+
+  "result": {
+    "item": "bruce_library:large_gunmetal_barrel"
+  }
+}

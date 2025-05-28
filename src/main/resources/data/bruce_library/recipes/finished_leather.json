@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "C": {
+            "item": "bruce_library:finished_oil_bucket"
+        }
+    },
+    "result": {
+        "id": "bruce_library:finished_leather",
+        "count": 1
+    }
+}

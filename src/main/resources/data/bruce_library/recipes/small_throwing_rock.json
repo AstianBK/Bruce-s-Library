@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CCC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone_pickaxe"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "medieval_boomsticks:small_throwing_rock",
+        "count": 2
+    }
+}

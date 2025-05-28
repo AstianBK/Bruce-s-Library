@@ -2,17 +2,17 @@
   "parent": "minecraft:item/handheld",
   "loader": "forge:separate_transforms",
   "base": {
-    "parent": "samurai_armory:item/japsmithing_hammer_3d"
+    "parent": "bruce_library:item/japsmithing_hammer_3d"
   },
   "perspectives": {
     "gui": {
-      "parent": "samurai_armory:item/japsmithing_hammer_gui"
+      "parent": "bruce_library:item/japsmithing_hammer_gui"
     },
     "ground": {
-      "parent": "samurai_armory:item/japsmithing_hammer_gui"
+      "parent": "bruce_library:item/japsmithing_hammer_gui"
     },
     "fixed": {
-      "parent": "samurai_armory:item/japsmithing_hammer_gui"
+      "parent": "bruce_library:item/japsmithing_hammer_gui"
     }
   }
 }

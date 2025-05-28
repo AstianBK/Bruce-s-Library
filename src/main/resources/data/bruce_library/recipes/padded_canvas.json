@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "###",
+        "## "
+    ],
+    "key": {
+        "#": {
+            "item": "bruce_library:canvas"
+        }
+    },
+    "result": {
+        "id": "bruce_library:canvas",
+        "count": 1
+    }
+}

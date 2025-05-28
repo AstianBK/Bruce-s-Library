@@ -1,0 +1,29 @@
+{
+  "type": "bruce_library:new_furnace_recipe",
+  "ingredient1": {
+    "item": "bruce_library:raw_pyrite"
+  },
+  "ingredient2": {
+    "item": "bruce_library:raw_pyrite"
+  },
+  "ingredient3": {
+    "item": "bruce_library:raw_pyrite"
+  },
+  "tool1": {
+    "item": "bruce_library:smithing_hammer"
+  },
+  "tool2": {
+    "item": "bruce_library:smithing_tongs"
+  },
+  "tool3": {
+    "item": "bruce_library:smithing_bellows"
+  },
+
+  "experience": 0.3,
+  "cooking_time":150,
+
+  "result": {
+    "item": "minecraft:raw_iron",
+    "count": 4
+  }
+}
