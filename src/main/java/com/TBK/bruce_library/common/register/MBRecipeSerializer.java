@@ -24,7 +24,7 @@ public class MBRecipeSerializer {
         }
     });
 
-    public static final RegistryObject<RecipeType<JapFurnaceRecipe>> JAP_FURNACE_RECIPE_TYPE = RECIPE_TYPES.register("furnace_recipe_type",()->new RecipeType<JapFurnaceRecipe>() {
+    public static final RegistryObject<RecipeType<JapFurnaceRecipe>> JAP_FURNACE_RECIPE_TYPE = RECIPE_TYPES.register("jap_furnace_recipe_type",()->new RecipeType<JapFurnaceRecipe>() {
         @Override
         public int hashCode() {
             return super.hashCode();

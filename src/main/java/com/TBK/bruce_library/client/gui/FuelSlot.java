@@ -7,11 +7,11 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 
 public class FuelSlot extends Slot {
-    private final RKFurnaceContainerMenu menu;
+    private final AbstractFurnaceMultiMenu menu;
 
-    public FuelSlot(RecipeBookMenu<?> p_39520_, Container p_39521_, int p_39522_, int p_39523_, int p_39524_) {
+    public FuelSlot(AbstractFurnaceMultiMenu p_39520_, Container p_39521_, int p_39522_, int p_39523_, int p_39524_) {
         super(p_39521_, p_39522_, p_39523_, p_39524_);
-        this.menu = (RKFurnaceContainerMenu) p_39520_;
+        this.menu = p_39520_;
     }
 
     public boolean mayPlace(ItemStack p_39526_) {

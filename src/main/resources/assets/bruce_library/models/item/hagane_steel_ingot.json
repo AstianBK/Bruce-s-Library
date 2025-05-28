@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bruce_library:item/hagane_steel_ingot"
+  }
+}
