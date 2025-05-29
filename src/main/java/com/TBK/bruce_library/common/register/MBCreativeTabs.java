@@ -15,7 +15,7 @@ public class MBCreativeTabs {
 
     public static final RegistryObject<CreativeModeTab> MB_MOBS_TAB = TABS.register(BruceLibrary.MODID,()-> CreativeModeTab.builder()
             .icon(()->new ItemStack(MBItems.AQUA_FORTIS.get()))
-            .title(Component.translatable("itemGroup.medieval_boomstick"))
+            .title(Component.translatable("itemGroup.bruce_library"))
             .displayItems((s,a)-> {
 
                 a.accept(MBBlocks.SMITHING_FURNACE.get());
